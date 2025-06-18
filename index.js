@@ -38,19 +38,19 @@ console.log(doesDanielLikeWomenALLot.charAt("3"))
 
 // NUMBERS
 
-const theTotalNumberOfStudents = "8"
-const myCurrentBankAccountBalance = "0"
-const myFinalExamScoreResult = "4.5"
-const currentPageNumberForManga = "220"
-const thisRandomLargeNumberValue = "1000000"
+const theTotalNumberOfStudents = 8
+const myCurrentBankAccountBalance = 0
+const myFinalExamScoreResult = 4.5
+const currentPageNumberForManga = 220
+const thisRandomLargeNumberValue = 1000000
 
 // BOOLEANS
 
-const isThisTheTotalNumberHere = "True"
-const hasTheSystemBeenUpdatedYet = "True"
-const doYouHaveAnyMoney = "False"
-const thatMeansYouAreBroke = "True"
-const doesThisFeatureWorkProperly = "True"
+const isThisTheTotalNumberHere = True
+const hasTheSystemBeenUpdatedYet = True
+const doYouHaveAnyMoney = False
+const thatMeansYouAreBroke = True
+const doesThisFeatureWorkProperly = True
 
 
 
